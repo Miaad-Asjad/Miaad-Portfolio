@@ -9,8 +9,8 @@ const About = () => {
 
         <div className="max-w-3xl space-y-5 text-muted leading-relaxed">
           <p>
-            I’m a <span className="text-dark font-medium">MERN Stack Developer</span> 
-            with hands-on experience in building full-stack web applications using
+            I’m a <span className="text-dark font-medium">MERN Stack Developer</span>
+             with hands-on experience in building full-stack web applications using
             MongoDB, Express, React, and Node.js.
           </p>
 
